@@ -12,7 +12,7 @@ from google import genai
 # GEMINI API
 # =========================
 
-API_KEY = "AIzaSyCdojAN1xttjg5-MndsC9A7bA2mMLiqxQM"
+API_KEY = "API_KEY"
 
 client = genai.Client(api_key=API_KEY)
 
